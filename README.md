@@ -1,4 +1,4 @@
-# Easily replicable GNS3 Lab
+# Replicable GNS3 Lab
 
 I found myself wanting to use GNS3 in class. The students should work in groups. I didn't want to loose to much time providing 1st level support to every student to get GNS3 up and running. Besides I had no garantee that the laptops they owned had enough processing power and RAM. 
 
